@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#12151d"/>
@@ -8,6 +8,6 @@
   <rect width="720" height="1280" fill="url(#g)"/>
   <circle cx="360" cy="560" r="48" fill="none" stroke="#d4b476" stroke-width="3"/>
   <polygon points="348,538 388,560 348,582" fill="#d4b476"/>
-  <text x="360" y="660" text-anchor="middle" fill="#a6a9b3" font-family="Manrope, sans-serif" font-size="28">Short-Form</text>
+  <text x="360" y="660" text-anchor="middle" fill="#a6a9b3" font-family="Manrope, sans-serif" font-size="28">UGC Edit</text>
   <text x="360" y="700" text-anchor="middle" fill="#6a6f7a" font-family="Manrope, sans-serif" font-size="18">9:16 portrait</text>
 </svg>
